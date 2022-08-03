@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    box-sizing: border-box;
+    transition :0.3s ease-in-out;
+   
+}
+
+
+
+input{
+    direction: none
+    ;
+    border: none;
+}
+input:active{
+    border: none;
+
+}
